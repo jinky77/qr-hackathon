@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    {"pattern": "client-001", "label": "Client-001 (banque/assurance)", "concepts": ["clients/client-001"]},
+    {"pattern": "client-002", "label": "Client-002 (industrie)", "concepts": ["clients/client-002"]},
+    {"pattern": "client-003", "label": "Client-003 (retail)", "concepts": ["clients/client-003"]},
+    {"pattern": "deal-1001", "label": "DEAL-1001", "concepts": ["deals/deal-1001"]},
+    {"pattern": "deal-1002", "label": "DEAL-1002", "concepts": ["deals/deal-1002"]},
+    {"pattern": "deal-1003", "label": "DEAL-1003", "concepts": ["deals/deal-1003"]},
+    {"pattern": "deal-1004", "label": "DEAL-1004", "concepts": ["deals/deal-1004"]},
+    {"pattern": "relance", "label": "Relance client", "concepts": ["playbooks/playbook-relance"]},
+    {"pattern": "relancer", "label": "Relance client", "concepts": ["playbooks/playbook-relance"]},
+    {"pattern": "rdv", "label": "Préparation RDV", "concepts": ["playbooks/playbook-preparation-rdv"]},
+    {"pattern": "préparer", "label": "Préparation RDV", "concepts": ["playbooks/playbook-preparation-rdv"]},
+    {"pattern": "portefeuille", "label": "Vue portefeuille", "concepts": ["clients/client-001", "clients/client-002", "clients/client-003"]}
+  ]
+}

@@ -1,0 +1,5 @@
+client_id,secteur,deal_id,deal_name,montant_eur,stage,last_contact_date,next_step,next_step_date,owner
+CLI-001,banque,DEAL-1001,Accompagnement transformation digitale,850000,Negotiation,2026-11-03,Envoyer la proposition revisee,2026-11-27,SM-1
+CLI-001,banque,DEAL-1002,Audit reglementaire,120000,Discovery,2026-11-20,Relancer le decideur,2026-11-25,SM-1
+CLI-002,industrie,DEAL-1003,Optimisation supply chain,450000,Proposal,2026-10-28,Relancer le client sur la decision,2026-11-26,SM-2
+CLI-003,retail,DEAL-1004,Programme fide lite omnicanal,300000,Discovery,2026-11-18,Preparer l atelier de cadrage,2026-12-02,SM-2
